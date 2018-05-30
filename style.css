@@ -1,0 +1,8 @@
+.square {
+position: relative;
+overflow: hidden;
+margin: 0 auto; }
+.square img {
+position: absolute;
+top: 0;
+left: 0; }
